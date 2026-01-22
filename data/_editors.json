@@ -1,23 +1,23 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "List Owner - rec",
+        "link": "https://www.youtube.com/@kyjq"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "List Admin - adi",
+        "link": "https://www.youtube.com/@adi-physo"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "List Helper - technical49",
+        "link": "https://youtu.be/v6Xz96NIGGA"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Trial List Helper - physo",
+        "link": "https://youtube.com/@physo3?si=zHmFuKx-1jI_0e21"
     },
     {
         "role": "dev",
